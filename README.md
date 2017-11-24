@@ -1,9 +1,15 @@
-#RR 
+#AICP
+
 #Step
-1.git clone https://github.com/K3NG2541/rom.git -b RR
-2.bash RR.sh
+
+1.git clone https://github.com/K3NG2541/rom.git -b AICP
+
+2.bash AICP.sh
+
 3.enter Username
+
 4.enter Email
+
 5.wait done......
 
 Good Luck;)
