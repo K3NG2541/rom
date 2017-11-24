@@ -1,10 +1,12 @@
-#AICP
+#viper
 
 #Step
 
-1.git clone https://github.com/K3NG2541/rom.git -b AICP
+1.git clone https://github.com/K3NG2541/rom.git -b viper
 
-2.bash AICP.sh
+cd rom
+
+2.bash viper.sh
 
 3.enter Username
 
