@@ -4,6 +4,8 @@
 
 1.git clone https://github.com/K3NG2541/rom.git -b AICP
 
+cd rom
+
 2.bash AICP.sh
 
 3.enter Username

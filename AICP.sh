@@ -8,7 +8,7 @@ git config --global user.name
 git config --global user.email
 echo "Preparing to sync"
 repo init -u https://github.com/AICP/platform_manifest.git -b n7.1
-repo sync -c -f --force-sync --no-clone-bundle --no-tags -j64
+repo sync -j16
 echo "Sync complete Syncing device repos"
 git clone https://github.com/K3NG2541/android_device_lenovo_P1m -b aicp device/lenovo/P1m
 git clone https://github.com/K3NG2541/android_kernel_lenovo_P1m kernel/lenovo/P1m
